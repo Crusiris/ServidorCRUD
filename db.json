@@ -1,16 +1,19 @@
 {
-  "posts":[
+  "productos": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "nameproduct": "Pollo",
+      "price": "50000",
+      "id": 7
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "nameproduct": "Carne",
+      "price": 10000,
+      "id": 9
+    },
+    {
+      "nameproduct": "Jamon",
+      "price": 20000,
+      "id": 10
     }
   ]
 }
